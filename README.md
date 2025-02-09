@@ -1,4 +1,4 @@
-# Machine Learning By Prof. Andrew Ng :star2::star2::star2::star2::star:
+# Machine Learning By Prof. Andrew Ng :
 
 This page continas all my coursera machine learning courses and resources :book: by [Prof. Andrew Ng](http://www.andrewng.org/) :man:
 
